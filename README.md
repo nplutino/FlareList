@@ -1,6 +1,7 @@
 # FlareList
-This repository contains a list of solar flare events obtained with a new detection algorithm.
-You will have access to CSV files containing the list of events. 
+This repository accompanies the article "A new catalog of solar flare events from soft x-ray GOES signal in the period 1986-2020" by N. Plutino et al.
+It contains a list of solar flare events obtained with a new detection algorithm working on GOES data. You will have access to CSV files containing the list of events.
+When used for publications, please acknowledge the authors' work by citing the paper and including the url of this repository.
 
 <pre>
 Guide to labels:
