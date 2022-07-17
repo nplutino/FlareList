@@ -16,4 +16,4 @@ Guide to labels:
   flux_integral - time integral of flux over the period from tstart to tend [Wm^{-2} s]
 </pre>
 
-Notice that you can obtain absolute intensities for peak fluxes throught the operation <pre> peak_flux - BG_flux </pre>
+In order to obtain absolute intensities for peak fluxes you can use the following expression: <pre> peak_flux - BG_flux </pre>
