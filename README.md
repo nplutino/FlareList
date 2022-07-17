@@ -12,5 +12,8 @@ Guide to labels:
   tend - flare event endtime [UTC]
   BG_flux - local average flux at the beginning of the event [Wm^{-2}]
   peak_flux - value of flux at tpeak [Wm^{-2}]
+  fclass - flare class associated to the peak flux 
   flux_integral - time integral of flux over the period from tstart to tend [Wm^{-2} s]
 </pre>
+
+Notice that you can obtain absolute intensities for peak fluxes throught the operation <pre> peak_flux - BG_flux </pre>
