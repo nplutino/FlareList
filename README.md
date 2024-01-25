@@ -18,3 +18,7 @@ Guide to labels:
 
 In order to obtain absolute intensities for peak fluxes you can use the following expression: <pre> peak_flux - BG_flux </pre>
 If you need to view or download data for a custom period you can use the Python script inside the "Flare Catalog App folder". Inside you will also find a guide explaining what is required to used the script and how to use it.
+
+# Update on the flare list 
+
+An extended version of the catalog (up to 2023-04-30) can be found at: https://doi.org/10.5281/zenodo.10560188
